@@ -1,0 +1,12 @@
+.dn-btn {
+  width: 95%;
+  min-height: 125px;
+  margin: 10px;
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.btn {
+  border-radius: 18px;
+}
+
