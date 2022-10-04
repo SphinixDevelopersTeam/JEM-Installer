@@ -12,3 +12,28 @@
   border-radius: 18px;
 }
 
+.btn-indx {
+  width: 95%;
+  min-height: 125px;
+  margin: 10px;
+  font-size: 34px;
+  font-weight: bold;
+  border-width: 0px;
+}
+
+.btn-surv {
+  width: 100%;
+  min-height: 125px;
+  font-size: 34px;
+  font-weight: bold;
+  background: #64a5d2;
+  border-width: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.sdt-label {
+  text-decoration: none;
+  color: darkgray;
+}
+

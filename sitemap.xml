@@ -3,4 +3,10 @@
     <url>
         <loc>https://installer.jemserver.jq/</loc>
     </url>
+    <url>
+        <loc>https://installer.jemserver.jq/rp.html</loc>
+    </url>
+    <url>
+        <loc>https://installer.jemserver.jq/survive.html</loc>
+    </url>
 </urlset>
